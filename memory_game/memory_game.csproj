@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="carlotta.png" />
+    <None Remove="chixia.png" />
+    <None Remove="odwrot.png" />
+    <None Remove="rover.png" />
+    <None Remove="yangyang.png" />
+    <None Remove="yinlin.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="carlotta.png" />
+    <Resource Include="chixia.png" />
+    <Resource Include="odwrot.png" />
+    <Resource Include="rover.png" />
+    <Resource Include="yangyang.png" />
+    <Resource Include="yinlin.png" />
+  </ItemGroup>
+
+</Project>

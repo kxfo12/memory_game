@@ -1,0 +1,3 @@
+C:\Users\programista\Desktop\memory_game\obj\Debug\net6.0-windows\memory_game.csproj.AssemblyReference.cache
+C:\Users\programista\Desktop\memory_game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\programista\Desktop\memory_game\obj\Debug\net6.0-windows\memory_game_MarkupCompile.cache

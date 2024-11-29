@@ -48,11 +48,16 @@ namespace memory_game
             
             if (lastIdCLicked != id)
             {
-                
                 lastIdCLicked = id;
-                Image button = (Image)FindName("image" + id);
-                button.Source = randomCharacters[id].Reverse();
+                Button button = sender as Button;
+                Image image = button.Content as Image;
+                image.Source = randomCharacters[id].Reverse();
             }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Button bu = sender as Button;
         }
     }
 }

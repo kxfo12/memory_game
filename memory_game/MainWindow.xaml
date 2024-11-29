@@ -7,51 +7,51 @@
         mc:Ignorable="d"
         Title="Wuwa Memory" Height="628" Width="816">
     <WrapPanel>
-        <Button Click="choose(0)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image1" Source="odwrot.png"></Image>
         </Button>
 
-        <Button Click="choose(1)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image2" Source="odwrot.png"></Image>
         </Button>
 
-        <Button Click="choose(2)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image3" Source="odwrot.png"></Image>
         </Button>
 
-        <Button Click="choose(3)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image4" Source="odwrot.png"></Image>
         </Button>
 
-        <Button Click="choose(4)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image5" Source="odwrot.png"></Image>
         </Button>
 
-        <Button Click="choose(5)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image6" Source="odwrot.png"></Image>
         </Button>
 
-        <Button Click="choose(6)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image7" Source="odwrot.png"></Image>
         </Button>
 
-        <Button Click="choose(7)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image8" Source="odwrot.png"></Image>
         </Button>
 
-        <Button Click="choose(8)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image9" Source="odwrot.png"></Image>
         </Button>
 
-        <Button Click="choose(9)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image10" Source="odwrot.png"></Image>
         </Button>
 
-        <Button Click="choose(10)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image11" Source="odwrot.png"></Image>
         </Button>
 
-        <Button Click="choose(11)">
+        <Button Click="choose">
             <Image Width="200" Height="200" x:Name="image12" Source="odwrot.png"></Image>
         </Button>
     </WrapPanel>
